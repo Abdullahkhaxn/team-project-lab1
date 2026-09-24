@@ -1,3 +1,4 @@
 # Final Team Project Outline - B's version is best!  
 1. Collaborator A Feature  
 2. Collaborator B Feature 
+3. B's Conflicting Feature 
